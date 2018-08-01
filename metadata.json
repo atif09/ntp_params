@@ -1,0 +1,18 @@
+{
+  "name": "Jawad-ntp",
+  "version": "1.0.0",
+  "author": "Jawad",
+  "summary": "ntp module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/atif09/Test.git",
+  "project_page": "https://github.com/atif09/Test",
+  "issues_url": "https://github.com/atif09/Test/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": "function" 
+}
+
