@@ -87,3 +87,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# ntp_params
+>>>>>>> 85936a5777c1986b4bbbcf736c0d8eb5e7e9afe1
